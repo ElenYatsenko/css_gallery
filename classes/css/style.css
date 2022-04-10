@@ -1,6 +1,11 @@
 h1 {
   text-transform: uppercase;
-  text-align: center
+  text-align: center;
+  font-family: cursive;
+  color: rgb(34, 205, 19);
+  /* text-shadow: 3px 3px 3px grey; */
+  /* text-shadow: 2px 0 2px grey, 0 2px 2px grey, -2px 0 2px grey, 0 -2px 2px grey; */
+text-shadow: -3px -3px 1px grey;
 }
 div {
   text-align: center;
